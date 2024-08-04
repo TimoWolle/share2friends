@@ -1,1 +1,3 @@
-\Dokumente\My Games\SnowRunner\base\Mods.modio\mods
+Mods: 		C:\Users\xxx\Dokumente\My Games\SnowRunner\base\Mods.modio\mods
+User-Profil: 	C:\Users\xxx\Dokumente\My Games\SnowRunner\base\storage\(SAVEGAME NAME)\user_profile.dat
+		C:\Users\xxx\Dokumente\My Games\SnowRunner\base\storage\41c0aa70172d44e48ee1e9ae89fdfa99\user_profile.dat
