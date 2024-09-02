@@ -6,7 +6,7 @@
     },
     "exported_at": "2024-04-02T14:35:12+02:00",
     "name": "rethinkdb",
-    "author": "josdekurk@gmail.com",
+    "author": "eggs@mivator.com",
     "description": "The open-source database for the realtime web",
     "features": null,
     "docker_images": {

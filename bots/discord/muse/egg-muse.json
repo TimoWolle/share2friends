@@ -6,7 +6,7 @@
     },
     "exported_at": "2024-04-02T14:42:04+02:00",
     "name": "Muse",
-    "author": "hello@apollo.moe",
+    "author": "eggs@mivator.com",
     "description": "\ud83c\udfa7 a self-hosted midwestern Discord music bot that doesn't suck",
     "features": null,
     "docker_images": {

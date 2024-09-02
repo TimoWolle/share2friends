@@ -6,7 +6,7 @@
     },
     "exported_at": "2024-04-02T14:15:38+02:00",
     "name": "Game Server Watcher",
-    "author": "a-sync@devs.space",
+    "author": "eggs@mivator.com",
     "description": "A simple discord\/telegram\/slack bot that can be hosted on a free service to monitor your game servers and players in style. \ud83d\ude0e",
     "features": null,
     "docker_images": {

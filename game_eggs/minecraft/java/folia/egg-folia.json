@@ -6,7 +6,7 @@
     },
     "exported_at": "2024-02-13T17:26:13+0000",
     "name": "Folia",
-    "author": "Hosting@NeverStopGaming.net",
+    "author": "eggs@mivator.com",
     "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
     "features": [
         "eula",

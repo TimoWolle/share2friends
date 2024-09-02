@@ -6,7 +6,7 @@
     },
     "exported_at": "2022-10-26T17:21:51+02:00",
     "name": "LeagueSandbox",
-    "author": "domi@imagine.team",
+    "author": "eggs@mivator.com",
     "description": "A simple egg to run LeagueSandbox server in pterodactyl",
     "features": null,
     "docker_images": {
